@@ -6,8 +6,8 @@
 - 🚀 I'm always eager to learn new things and take on challenging projects.
 
 ## 🛠 Skills
-- **Languages**: Java, CSS
-- **Tools & Technologies**: **work in development**
+- **Languages**: Java, CSS **Work in development**
+- **Tools & Technologies**: **Work in development**
 - **Soft Skills**: Problem solving, teamwork, creativity
 
 ## 📈 My GitHub Stats
@@ -16,7 +16,7 @@
 ## 📫 How to Reach Me
 - **Email**: contact@dennyrezsworkspace.info
 - **LinkedIn**: https://www.linkedin.com/in/denny-rezvanov/
-- **Portfolio**: **work in development**
+- **Portfolio**: **Work in development**
 
 ## 🤝 Looking Forward
 - I'm open to **collaborations** on interesting projects in Software Enginneering, game development, software development, fullstack developing.
